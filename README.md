@@ -11,6 +11,8 @@ Acting as the new Chief Data Scientist for my city's school district, I helped t
 *The lowest-performing schools (by % overall passing) were Rodriguez High School, Figueroa High School, Huang High School, Hernnadez High School and Johnson High School.
 * Math Scores by Grade:
 
+![](https://github.com/Houdini24/Pandas_Challenge/blob/main/Resources/Math%20Scores%20by%20Grade.png)
+
 * Reading Scores by Grade
 
 * Scores by School Spending:
