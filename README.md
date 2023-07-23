@@ -15,6 +15,8 @@ Acting as the new Chief Data Scientist for my city's school district, I helped t
 
 * Reading Scores by Grade
 
+![](https://github.com/Houdini24/Pandas_Challenge/blob/main/Resources/Reading%20Scores%20by%20Grade.png)
+
 * Scores by School Spending:
 
 * The average math score was 78.98% for the district, and the average reading score was 81.87%.
